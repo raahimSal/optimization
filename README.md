@@ -1,2 +1,2 @@
-# optimization
-optimization of univariate objective function.
+# Parameter Estimation
+Estimation of parameters to fit a CIR Process through monte-carlo simulation, where two different series are globally minimized. The mean and std are then used from the minimized solutions. 
